@@ -20,24 +20,18 @@
 
 
 ## Description
-
-This app allows a user who is owns or works for a company that sells/posts items to add, update and delete products from a database. There are also categories for the products as well as tags for the products that can also be added, updated and deleted. 
+This text editor allows the user to download an app to use offline. The user can then add, update and delete text notes in the app. 
 
 
 ## Technologies
-Requires npm and uses express, dotenv, sequelize, MySQL2 and Insomnia (or Postman)
+Requires npm and uses express. The application should be deployed to Heroku but there is a known error with Heroku at the moment where it is not recognizing Node files. For this reason, I have added screenshots and a walk through video of the deployed application. 
 
 ## User-Guide
 To get started, in your terminal, type in 'npm run start'
 <br>
 <br>
 <br>
-Screenshot of seeding the database from the command line:
-<br>
-<br>
-<br>
-![screenshot](./public/images/screenshot2.png)
-You will then need to open your Insomnia app and run the posts, gets, puts and deletes from there. Here is a screenshot to show how I set mine up:
+Screenshot of the app on my localhost/port:3000 :
 <br>
 <br>
 <br>
@@ -45,24 +39,38 @@ You will then need to open your Insomnia app and run the posts, gets, puts and d
 <br>
 <br>
 <br>
-Click on the videos (below) to view the database seeding through the command line as well as the full walkthrough of the database on Insomnia.
+The app is already downloaded so this is what it looks like when prompted to open:
+<br>
+<br>
+<br>
+![screenshot](./public/images/screenshot2.png)
+<br>
+<br>
+<br>
+The application itself:
+<br>
+<br>
+<br>
+![screenshot](./public/images/screenshotapp.png)
+<br>
+<br>
+<br>
+Click on the video (below) to view the app being run through my local server. Once on the server- you can type in notes and then click on the install button. Because I've already installed the app, I just need to open it. Once opened you can see it is just a single page, it has the ability to run offline and still saves the updates to the text notes. 
 <br>
 <br>
 <br>
 
 ## VideoLink
-Demonstration of Seeding the Database:
+Demonstration of running the app:
 <br>
-<https://drive.google.com/file/d/1j7TjqinBAt51zzDx8Ip2qdn-lVqfqmrW/view>
+<https://drive.google.com/file/d/1kDzdZzBBSovmIJacTqIWgviAs5NF30aJ/view>
 <br>
-Insomnia Walkthrough:
-<br>
-<https://drive.google.com/file/d/1xJdBNxqQO_lgahdjoNyrdzFNvMrR-0vm/preview>
+
 
 
 
 ## GithubLink
-<https://github.com/jennyrae818/ecommerceBackend>
+<https://github.com/jennyrae818/texteditor>
 
 ## Questions
 
