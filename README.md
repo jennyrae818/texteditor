@@ -55,6 +55,14 @@ The application itself:
 <br>
 <br>
 <br>
+The error being thrown from Heroku - which is really too bad. Once Heroku fixes the issue I will update:
+<br>
+<br>
+<br>
+![screenshot](./public/images/screenshot4.png)
+<br>
+<br>
+<br>
 Click on the video (below) to view the app being run through my local server. Once on the server- you can type in notes and then click on the install button. Because I've already installed the app, I just need to open it. Once opened you can see it is just a single page, it has the ability to run offline and still saves the updates to the text notes. 
 <br>
 <br>
